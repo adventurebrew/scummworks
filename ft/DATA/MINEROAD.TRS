@@ -1,0 +1,486 @@
+#define DLGMINER_LINE2001 1
+//אתה אוהב דאווינים, מה?
+
+#define DLGMINER_LINE2002 2
+//מה דעתך על הדאווין הזה?!?
+
+#define DLGMINER_LINE2003 3
+//כן חה חה חה!
+
+#define DLGMINER_LINE2004 4
+//כן!
+
+#define DLGMINER_LINE2005 5
+//הו כן?!?
+
+#define DLGMINER_LINE2006 6
+//אתה עץ הסקה, בול עץ!
+
+#define DLGMINER_LINE2007 7
+//בוא נכרות אותך ונספור את הטבעות.
+
+#define DLGMINER_LINE2008 8
+//רק בגלל זה, אני לוקח את הזרוע הזאת!
+
+#define DLGMINER_LINE2009 9
+//להוריד קצת מלמעלה?
+
+#define DLGMINER_LINE2010 10
+//קבל את זה!
+
+#define DLGMINER_LINE2011 11
+//אוף!
+
+#define DLGMINER_LINE2012 12
+//רררר!
+
+#define DLGMINER_LINE2013 13
+//חה חה חה!
+
+#define DLGMINER_LINE2014 14
+//חזרת לעוד קצת?
+
+#define DLGMINER_LINE2015 15
+//אח! העיניים שלי!
+
+#define DLGMINER_LINE2016 16
+//אאאאאה!
+
+#define DLGMINER_LINE2017 17
+//וואו, אתה באמת חמוס?
+
+#define DLGMINER_LINE2018 18
+//כן, אני כן.
+
+#define DLGMINER_LINE2019 19
+//טוב, אני שונא חמוסים!
+
+#define DLGMINER_LINE2020 20
+//איף!
+
+#define DLGMINER_LINE2021 21
+//בללק!
+
+#define DLGMINER_LINE2022 22
+//וואה!
+
+#define DLGMINER_LINE2023 23
+//אתם החמוסים לא לומדים אף פעם, מה?
+
+#define DLGMINER_LINE2024 24
+//חה! שפנים יותר מתאים!
+
+#define DLGMINER_LINE2025 25
+//חלאה חמוסית מצחינה!
+
+#define DLGMINER_LINE2026 26
+//תלמד לרכוב, ילד.
+
+#define DLGMINER_LINE2027 27
+//אני מתערב שהרגע הורדת את גלגלי העזר, אה?
+
+#define DLGMINER_LINE2028 28
+//חי, חי!
+
+#define DLGMINER_LINE2029 29
+//אתה חופר לי, פרצוף מעדר.
+
+#define DLGMINER_LINE2030 30
+//תסתלק, בן אדם...
+
+#define DLGMINER_LINE2031 31
+//אההה!
+
+#define DLGMINER_LINE2032 32
+//ררררר!
+
+#define DLGMINER_LINE2033 33
+//הי-יאא!
+
+#define DLGMINER_LINE2034 34
+//איך זה בתור מכתב שרשרת?
+
+#define DLGMINER_LINE2035 35
+//לא כדאי להכות אדם שחובש משקפיים...
+
+#define DLGMINER_LINE2036 36
+//תרשה לי להציג בפניך את האספלט...
+
+#define DLGMINER_LINE2037 37
+//אתה מחלל את המרחב שלי, אני אחלל את שלך.
+
+#define DLGMINER_LINE2038 38
+//שמע לעצתי, בן אדם: היכנע!
+
+#define DLGMINER_LINE2039 39
+//אתה ממש יבלת קטנה ואגרסיבית, הלא כן?
+
+#define DLGMINER_LINE2040 40
+//הברגים שלך זקוקים להידוק, חבוב.
+
+#define DLGMINER_LINE2041 41
+//אני מניח שאתה פשוט לא יכול להסתדר בלי הכנופייה שלך.
+
+#define DLGMINER_LINE2042 42
+//מפסידן.
+
+#define DLGMINER_LINE2043 43
+//חלשלוש רפוי-לסת.
+
+#define DLGMINER_LINE2044 44
+//אתה לא צריך מדבקת `מטען חורג` בשביל החזיר הזה?
+
+#define DLGMINER_LINE2045 45
+//תגיד רגע, זה מאיץ הדף על חומר-בערה מוצק, מדגם משמיד, מלפני התקנות שיש לך שם?
+
+#define DLGMINER_LINE2046 46
+//או שאתה פשוט שמח לראות אותי?
+
+#define DLGMINER_LINE2047 47
+//*שיעול* *שיעול*
+
+#define DLGMINER_LINE2048 48
+//טוב, זה עונה על השאלה.
+
+#define DLGMINER_LINE2049 49
+//כן, אלא מה?
+
+#define DLGMINER_LINE2050 50
+//טה טה!
+
+#define DLGMINER_LINE2051 51
+//אה-אה-אה!
+
+#define DLGMINER_LINE2052 52
+//אוף.
+
+#define DLGMINER_LINE2053 53
+//היי, גבר! אתה מטורף!
+
+#define DLGMINER_LINE2054 54
+//אני הולך מפה!
+
+#define DLGMINER_LINE2055 55
+//תשאף ניטרו, פתיון לחלזונות!
+
+#define DLGMINER_LINE2056 56
+//מצטער, חייב לרוץ!
+
+#define DLGMINER_LINE2057 57
+//איק! אופנוען! עזרה!
+
+#define DLGMINER_LINE2058 58
+//אתה באמת חייב להשיג איזה מאיץ טוב במבצע.
+
+#define DLGMINER_LINE2059 59
+//אל תדאג, לאט אבל בטוח אנצח במירוץ הזה.
+
+#define DLGMINER_LINE2060 60
+//חה-חה-חה!
+
+#define DLGMINER_LINE2061 61
+//יאה-אה-אה!
+
+#define DLGMINER_LINE2062 62
+//יהי הי הי!
+
+#define DLGMINER_LINE2063 63
+//מה קרה? מוביל טיטולים?
+
+#define DLGMINER_LINE2064 64
+//הטלת עוגן או מה?
+
+#define DLGMINER_LINE2065 65
+//יאררר!
+
+#define DLGMINER_LINE2066 66
+//אתה מת!
+
+#define DLGMINER_LINE2067 67
+//תאכל את זה, צ'ארלי!
+
+#define DLGMINER_LINE2068 68
+//תסתלק!
+
+#define DLGMINER_LINE2069 69
+//אתה עקשן, אבל אתה לא משתפר!
+
+#define DLGMINER_LINE2070 70
+//פרחח מוזר!
+
+#define DLGMINER_LINE2071 71
+//עכשיו אתה מת!
+
+#define DLGMINER_LINE2072 72
+//אני קצת נמשך אליך.
+
+#define DLGMINER_LINE2073 73
+//הפעם אתה הולך להישאר למטה!
+
+#define DLGMINER_LINE2074 74
+//זה הסוף שלך, פראייר.
+
+#define DLGMINER_LINE2075 75
+//תלקקו זפת, חמוסים!
+
+#define DLGMINER_LINE2076 76
+//אולי פשוט ניישב את הסכסוכים בינינו על בירה קרה, אה?
+
+#define DLGMINER_LINE2077 77
+//אני שונא חמוסים!
+
+#define DLGMINER_LINE2078 78
+//אני שונא אתכם, סמורים!
+
+#define DLGMINER_LINE2079 79
+//חמוסים!
+
+#define DLGMINER_LINE2080 80
+//מה שתגיד!
+
+#define DLGMINER_LINE2081 81
+//זה הכביש שלי, ידידי!
+
+#define DLGMINER_LINE2082 82
+//תוותר כבר!
+
+#define DLGMINER_LINE2083 83
+//אתגעגע אליך כשתהיה ז`ל.
+
+#define DLGMINER_LINE2084 84
+//אחרי שתמות, אעשה לעצמי מנורה מהאופנוע שלך.
+
+#define DLGMINER_LINE2085 85
+//עכשיו אני עצבני.
+
+#define DLGMINER_LINE2086 86
+//יאאא!
+
+#define DLGMINER_LINE2087 87
+//יאאא
+
+#define DLGMINER_LINE2088 88
+//יאאא!
+
+#define DLGMINER_LINE2089 89
+//ארר!
+
+#define DLGMINER_LINE2090 90
+//ארר!
+
+#define DLGMINER_LINE2091 91
+//ארר!
+
+#define DLGMINER_LINE2092 92
+//אני מקווה שלא שברתי לך את השיניים התותבות.
+
+#define DLGMINER_LINE2093 93
+//היי, זה ידידי הותיק מה-שמו!
+
+#define DLGMINER_LINE2094 94
+//שמח לראות שטיהרתם את השם שלכם.
+
+#define DLGMINER_LINE2095 95
+//המפרקים שלי התחילו לגרד.
+
+#define DLGMINER_LINE2096 96
+//היי, היי!
+
+#define DLGMINER_LINE2097 97
+//יפה!
+
+#define DLGMINER_LINE2098 98
+//זו הגישה!
+
+#define DLGMINER_LINE2099 99
+//בא לך ללכת מכות, אה ילד?
+
+#define DLGMINER_LINE2100 100
+//אוו, ניסיון יפה!
+
+#define DLGMINER_LINE2101 101
+//אל תיכנע עכשיו!
+
+#define DLGMINER_LINE2102 102
+//לא, חזק יותר! ככה!
+
+#define DLGMINER_LINE2103 103
+//אקקק!
+
+#define DLGMINER_LINE2104 104
+//אוף! זה כמעט כאב!
+
+#define DLGMINER_LINE2105 105
+//רררררר!
+
+#define DLGMINER_LINE2106 106
+//אני רואה שבאת לקבל שיעור בכאב.
+
+#define DLGMINER_LINE2107 107
+//שים לב--זה הולך לכאוב.
+
+#define DLGMINER_LINE2108 108
+//הרגשת צריבה עולה ויורדת בעמוד השידרה שלך?
+
+#define DLGMINER_LINE2109 109
+//זה כל הכאב שאתה מסוגל לגרום?
+
+#define DLGMINER_LINE2110 110
+//אתה צריך לרצות להכאיב לי לפחות כמו שאני רוצה להכאיב לך.
+
+#define DLGMINER_LINE2111 111
+//תאמין לי, אני בהחלט רוצה להכאיב בך.
+
+#define DLGMINER_LINE2112 112
+//לא משהו אישי.
+
+#define DLGMINER_LINE2113 113
+//זה יספק אותי יותר אם תפגין יותר אי-נוחות.
+
+#define DLGMINER_LINE2114 114
+//שוב אתה? יופי.
+
+#define DLGMINER_LINE2115 115
+//טוב, השיעור נגמר. זה הזמן למבחן הסופי.
+
+#define DLGMINER_LINE2116 116
+//אוף.
+
+#define DLGMINER_LINE2117 117
+//אוף.
+
+#define DLGMINER_LINE2118 118
+//אוף.
+
+#define DLGMINER_LINE2119 119
+//יאאא!
+
+#define DLGMINER_LINE2120 120
+//הקרש מעביר את הכאב ממני אליך.
+
+#define DLGMINER_LINE2121 121
+//מבין עכשיו?
+
+#define DLGMINER_LINE2122 122
+//אני לא חושב שאתה תופס.
+
+#define DLGMINER_LINE2123 123
+//הרשה לי לחזור ולהסביר.
+
+#define DLGMINER_LINE2124 124
+//אני חושב שאתה מוכן לקצת כאב אמיתי עכשיו.
+
+#define DLGMINER_LINE2125 125
+//הו! זה טוב!
+
+#define DLGMINER_LINE2126 126
+//כן!
+
+#define DLGMINER_LINE2127 127
+//עכשיו תפסת את העניין!
+
+#define DLGMINER_LINE2128 128
+//נגעתי,!
+
+#define DLGMINER_LINE2129 129
+//תפסתי אותך, מותק!
+
+#define DLGMINER_LINE2130 130
+//מממממ!
+
+#define DLGMINER_LINE2131 131
+//הכיתה משוחררת.
+
+#define DLGMINER_LINE2132 132
+//פיקניק!
+
+#define DLGMINER_LINE2133 133
+//הנוף הזה מגדיר יופי אמיתי.
+
+#define DLGTORQU_LINE2001 134
+//אבא טורק!
+
+#define SYSTEM_LINE0005 135
+//לא מגיע!
+
+#define DLGROTT_LINE2001 501
+//קדימה, חתלתול!
+
+#define DLGROTT_LINE2002 502	
+//בוא ניגש לעניינים!
+
+#define DLGROTT_LINE2003 503
+//הוווו, מיאו!
+
+#define DLGROTT_LINE2004 504
+//מה הבעיה? הסירו לך את הטפרים?
+
+#define DLGROTT_LINE2005 505
+//אהההף!
+
+#define DLGROTT_LINE2006 506
+//אהההף!
+
+#define DLGROTT_LINE2007 507
+//אהההף!
+
+#define DLGROTT_LINE2008 508
+//יאאא!
+
+#define DLGROTT_LINE2009 509
+//יאאא!
+
+#define DLGROTT_LINE2010 510
+//יאאא!
+
+#define DLGROTT_LINE2011 511
+//היי!
+
+#define DLGROTT_LINE2012 512
+//גררר!
+
+#define DLGROTT_LINE2013 513
+//חתלתול רע!
+
+#define DLGROTT_LINE2014 514
+//אוו, לעזאזל!
+
+#define ROADRSH_LINE2001	2001 
+//היי! אתה לא מנהיג החמוסים מספר אחת?!
+
+#define ROADRSH_LINE1002	1002 
+//כן, ואתה מפריע לי בדרך. 
+
+#define ROADRSH_LINE2002	2002 
+//כדאי שתתרגל לזה, גבר.
+
+#define ROADRSH_LINE2003	2003 
+//כשהרוטווילרים על הכביש, הוא שלנו. 
+
+#define ROADRSH_LINE1005	1005
+//תראה אני רציני. מישהו אורב לחמוסים--
+
+#define ROADRSH_LINE2004	2004 
+//מישהו אורב לחמוסים!?!
+
+#define ROADRSH_LINE2005	2005 
+//שומו שמיים!  מה נוכל לעשות?
+
+#define ROADRSH_LINE2006	2006 
+//חה חה חה!
+
+#define NESTOR_LINE_1			3000
+//תראו אותו רץ!
+
+#define BOLUS_LINE_2			3001
+//אההה... דגי מערה!
+
+#define ROADRSH_LINE1009	1009 
+//זה הספיק לי!
+
+#define CFISH_EXIT_TEXT		5000
+//^f01יציאה
+
+#define CFISH_CAVE_TEXT		5001
+//^f01מערה
+

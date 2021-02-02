@@ -1,0 +1,15 @@
+			say-line ben  BARFRONT-LINE1003  ;"כשאני על הכביש^"
+			wait-for-message
+			sleep-for 30 jiffies
+			say-line ben  BARFRONT-LINE1004  ;"אני בלתי פגיע."
+			wait-for-message
+			sleep-for 30 jiffies
+			say-line ben  BARFRONT-LINE1005  ;"איש לא יכול לעצור אותי."
+			wait-for-message
+
+			print-placeholder  BARFRONT-LINE1006  ;"<< אופנוע משתקף על המשקפיים של בן! >>"
+			wait-for-message
+
+			say-line ben  BARFRONT-LINE1007  ;"אבל הם מנסים."
+
+

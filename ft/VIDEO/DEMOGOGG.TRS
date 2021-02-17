@@ -1,15 +1,15 @@
-			say-line ben  BARFRONT-LINE1003  ;"λωΰπι ςμ δλαιω^"
+			say-line ben  BARFRONT-LINE1003  ;"Χ›Χ©ΧΧ Χ™ ΧΆΧ Χ”Χ›Χ‘Χ™Χ©^"
 			wait-for-message
 			sleep-for 30 jiffies
-			say-line ben  BARFRONT-LINE1004  ;"ΰπι αμϊι τβις."
+			say-line ben  BARFRONT-LINE1004  ;"ΧΧ Χ™ Χ‘ΧΧªΧ™ Χ¤Χ’Χ™ΧΆ."
 			wait-for-message
 			sleep-for 30 jiffies
-			say-line ben  BARFRONT-LINE1005  ;"ΰιω μΰ ιλεμ μςφεψ ΰεϊι."
+			say-line ben  BARFRONT-LINE1005  ;"ΧΧ™Χ© ΧΧ Χ™Χ›Χ•Χ ΧΧΆΧ¦Χ•Χ¨ ΧΧ•ΧªΧ™."
 			wait-for-message
 
-			print-placeholder  BARFRONT-LINE1006  ;"<< ΰετπες ξωϊχσ ςμ δξωχτιιν ωμ αο! >>"
+			print-placeholder  BARFRONT-LINE1006  ;"<< ΧΧ•Χ¤Χ Χ•ΧΆ ΧΧ©ΧªΧ§Χ£ ΧΆΧ Χ”ΧΧ©Χ§Χ¤Χ™Χ™Χ Χ©Χ Χ‘Χ! >>"
 			wait-for-message
 
-			say-line ben  BARFRONT-LINE1007  ;"ΰαμ δν ξπριν."
+			say-line ben  BARFRONT-LINE1007  ;"ΧΧ‘Χ Χ”Χ ΧΧ Χ΅Χ™Χ."
 
 

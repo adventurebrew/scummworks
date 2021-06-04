@@ -1,1 +1,2 @@
-..\utils\scummtr -w -g samnmax -oHf orig.txt -p orig
+nutcracker sputm strings_extract -t orig.txt orig/SAMNMAX.000
+..\utils\scummtr -w -g samnmax -oHf origtr.txt -p orig

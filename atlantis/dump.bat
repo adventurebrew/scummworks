@@ -1,1 +1,1 @@
-..\utils\scummtr -w -g atlantis -oHf orig.txt -p orig
+nutcracker sputm strings_extract -t orig.txt orig/ATLANTIS.000

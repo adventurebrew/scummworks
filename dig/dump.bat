@@ -1,1 +1,1 @@
-..\utils\scummtr -w -g dig -oHf orig.txt -p orig
+nutcracker sputm strings_extract -t orig.txt orig/DIG.LA0

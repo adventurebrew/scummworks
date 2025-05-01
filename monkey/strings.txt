@@ -159,31 +159,31 @@ monkey.cfg
 \xFF\x0A\x73\xC4\xFF\x0A\x2D\x00\xFF\x0A\x0A\x00\xFF\x0A\x00\x00
 The Secret of Monkey Island - Talkie CD v1.02
 The Secret of Monkey Island - Ultimate Talkie Edition
-Game Paused.  Press SPACE to Continue.
+המשחק בהשהיה. הקישו על רווח כדי להמשיך.
 Insert Disk %c and Press Button to Continue.
 Unable to Find %s, (%c%d) Press Button.
 Error reading disk %c, (%c%d) Press Button.
-Are you sure you want to restart?  (Y/N)Y
-Are you sure you want to quit?  (Y/N)Y
-Restart
+האם אתם בטוחים שאתם רוצים להתחיל מחדש? )Y/N(Y
+האם אתם בטוחים שאתם רוצים לצאת? )Y/N(Y
+התחלה מחדש
 Current Passcode
 Enter Passcode
 Invalid Passcode
 Are you sure?
-Save
-Load
-Play
-Cancel
-Quit
-OK
+שמירה
+טעינה
+משחק
+ביטול
+יציאה
+אישור
 Insert save/load game disk
-You must enter a name
-The game was NOT saved
-The game was NOT loaded
-Saving '%s'
-Loading '%s'
-Name your SAVE game
-Select a game to LOAD
+יש להזין שם
+המשחק לא נשמר
+המשחק לא נטען
+שומר את '%s'
+טוען את '%s'
+תנו שם למשחק שישמר
+בחרו משחק לטעינה
 ברנשצבע
 Debugging mode not active
 גזוז
@@ -2116,7 +2116,7 @@ lleweN ydnA ו-senoJ yenraB^\xFF\x01מ-snoitcudorp xawrae^\xFF\x02
 \xFF\x0A\x9D\x8B\xFF\x0A\xC8\x03\xFF\x0A\x0A\x00\xFF\x0A\x00\x00מעניין אם היא נעלה את האחוזה שלה^
  
 \xFF\x0A\x31\x47\xFF\x0A\xC9\x03\xFF\x0A\x0A\x00\xFF\x0A\x00\x00כן^
-\xFF\x0A\x6B\x79\xFF\x0A\xC9\x03\xFF\x0A\x0A\x00\xFF\x0A\x00\x00אתה יכול  ל ה ו צ י א   א ו ת י   מ כ א ן !
+\xFF\x0A\x6B\x79\xFF\x0A\xC9\x03\xFF\x0A\x0A\x00\xFF\x0A\x00\x00אתה  יכול  להוציא   אותי   מכאן !
 \xFF\x0A\x9B\x12\xFF\x0A\xCA\x03\xFF\x0A\x0A\x00\xFF\x0A\x00\x00בעצם, משהו שיעזור להיפטר מהחולדות האלה יהיה נחמד מאוד.
 \xFF\x0A\xD9\x2E\xFF\x0A\xCB\x03\xFF\x0A\x0A\x00\xFF\x0A\x00\x00אתן לך בתמורה את עוגת הגזר שדודתי טילי הכינה.
 \xFF\x0A\xA5\x12\xFF\x0A\xCC\x03\xFF\x0A\x0A\x00\xFF\x0A\x00\x00אני שונא עוגות גזר.

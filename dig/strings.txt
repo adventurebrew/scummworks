@@ -30,35 +30,35 @@ sq1.san
 ברינק
 The Dig v1.0
 The Dig v1.0
-/BOOT.003/Game Paused.  Press SPACE to Continue.
-/BOOT.004/Are you sure you want to restart?  (Y/N)Y
-/BOOT.005/Are you sure you want to quit?  (Y/N)Y
+/BOOT.003/המשחק בהשהיה. הקישו על רווח כדי להמשיך.
+/BOOT.004/האם אתם בטוחים שאתם רוצים להתחיל מחדש?  )Y/N(Y
+/BOOT.005/האם אתם בטוחים שאתם רוצים לצאת?  )Y/N(Y
 /BOOT.007/c:\\dig
-/BOOT.008/Save
-/BOOT.009/Load
-/BOOT.010/Play
-/BOOT.011/Cancel
-/BOOT.012/Quit
-/BOOT.013/OK
-Voice Only
-Voice and Text
-Text Display Only
-/BOOT.014/You must enter a name
-/BOOT.015/The game was NOT saved
-/BOOT.016/The game was NOT loaded
-/BOOT.017/Saving '%s'
-/BOOT.018/Loading '%s'
-/BOOT.019/Name your SAVE game
-/BOOT.020/Select a game to LOAD
-/BOOT.021/The Dig
-/BOOT.022/Music
-/BOOT.023/Voice
-/BOOT.024/Sfx
-/BOOT.025/disabled
-/BOOT.026/Text Speed
-/BOOT.027/Display Text
+/BOOT.008/שמירה
+/BOOT.009/טעינה
+/BOOT.010/משחק
+/BOOT.011/ביטול
+/BOOT.012/יציאה
+/BOOT.013/אישור
+קול בלבד
+קול וטקסט
+הצגת טקסט בלבד
+/BOOT.014/יש להזין שם
+/BOOT.015/המשחק לא נשמר
+/BOOT.016/המשחק לא נטען
+/BOOT.017/שומר את '%s'
+/BOOT.018/טוען את '%s'
+/BOOT.019/תנו שם למשחק השמור
+/BOOT.020/בחרו משחק לטעינה
+/BOOT.021/התגלית
+/BOOT.022/מוזיקה
+/BOOT.023/קולות
+/BOOT.024/אפקטים
+/BOOT.025/כבוי
+/BOOT.026/מהירות טקסט
+/BOOT.027/הצגת טקסט
 /BOOT.028/Spooled Music
-/BOOT.029/Do you want to replace this saved game? (Y/N)Y
+/BOOT.029/האם ברצונכם להחליף משחק שמור זה?  )Y/N(Y
 /BOOT.030/Warning!  More free memory needed!  Consult ref card!
  
 WARNING--- cut-scene-level = \xFF\x04\xDB\x00
